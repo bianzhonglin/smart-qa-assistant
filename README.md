@@ -1,5 +1,4 @@
 # Smart QA Assistant
-[![CI](https://github.com/bianzhonglin/smart-qa-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/bianzhonglin/smart-qa-assistant/actions/workflows/ci.yml)
 
 A LangChain-based QA assistant supporting three modes:
 - Basic QA mode
@@ -97,8 +96,6 @@ python main.py --mode retrieval --rebuild-index --question "How does vector sear
 ```bash
 pytest -q
 ```
-
-GitHub Actions runs the same test command on pushes and pull requests to `main`.
 
 ## Notes
 - Retrieval mode stores ChromaDB data under `outputs/vector_store/`.
