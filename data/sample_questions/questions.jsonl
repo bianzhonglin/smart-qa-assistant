@@ -1,0 +1,5 @@
+﻿{"mode": "basic", "question": "What is LangChain used for?", "expected_focus": "framework overview"}
+{"mode": "basic", "question": "How can I reduce LLM API cost?", "expected_focus": "cost optimization"}
+{"mode": "retrieval", "question": "When should I use retrieval mode?", "expected_focus": "grounded answers from docs"}
+{"mode": "retrieval", "question": "How does vector search help reduce hallucinations?", "expected_focus": "semantic retrieval and grounding"}
+{"mode": "retrieval", "question": "Can I add new knowledge documents later?", "expected_focus": "knowledge base update flow"}

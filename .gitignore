@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment files
+.env
+
+# Test/cache artifacts
+.pytest_cache/
+
+# Build/distribution
+dist/
+build/
+*.egg-info/
+
+# Local runtime outputs
+outputs/vector_store/
